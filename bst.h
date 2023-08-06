@@ -68,3 +68,4 @@ void print_in_order_bst(BST *self);
  * @param self Pointer to the binary search tree to destroy
  */
 void destroy_bst(BST *self);
+void prototype();
